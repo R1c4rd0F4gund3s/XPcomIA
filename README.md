@@ -1,0 +1,23 @@
+# Bootcamp XP Inc. Computação em Nuvem com IA
+
+## 📌 Sobre o Projeto
+Este repositório contém resumos, anotações e dicas sobre o uso do Microsoft Azure para servir como material de apoio para estudos e futuras implementações.
+
+## 🚀 Como Configurar a Máquina Virtual
+1. Criar a VM no [Azure](https://portal.azure.com/).
+2. Configurar acesso e segurança.
+3. Instalar pacotes necessários (Git, ferramentas de desenvolvimento).
+4. Subir arquivos de estudo e manter versões com Git.
+
+## 📚 Conteúdos Disponíveis
+- 📄 Introdução ao Azure
+- ⚙️ Configuração de Máquinas Virtuais
+- 🔗 Redes e Conectividade
+- 🛠️ Segurança e Monitoramento
+- 🏗️ Melhores Práticas DevOps no Azure
+
+## 🤝 Contribuições
+Se quiser contribuir, faça um **fork** do repositório, crie um **branch** e envie um **pull request** com suas sugestões!
+
+## 📧 Contato
+Para dúvidas ou sugestões, entre em contato por [email](mailto:fagundz@gmail.com).
