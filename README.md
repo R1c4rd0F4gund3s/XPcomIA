@@ -6,7 +6,7 @@ Este repositório contém resumos, anotações e dicas sobre o uso do Microsoft 
 ## 🚀 Como Configurar a Máquina Virtual
 1. Criar a VM no [Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal).
 2. Configurar acesso e segurança no [Azure](https://learn.microsoft.com/pt-br/security/benchmark/azure/security-control-identity-access-control)
-3. Instalar pacotes necessários (Git, ferramentas de desenvolvimento).
+3. Instalar pacotes necessários ([Git](https://learn.microsoft.com/pt-br/azure/app-service/deploy-local-git), ferramentas de desenvolvimento).
 4. Subir arquivos de estudo e manter versões com Git.
 
 ## 📚 Conteúdos Disponíveis
