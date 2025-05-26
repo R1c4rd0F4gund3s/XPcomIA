@@ -20,4 +20,5 @@ Este repositório contém resumos, anotações e dicas sobre o uso do Microsoft 
 Se quiser contribuir, faça um **fork** do repositório, crie um **branch** e envie um **pull request** com suas sugestões!
 
 ## 📧 Contato
-Para dúvidas ou sugestões, entre em contato por [email](mailto:fagundz@gmail.com).
+[email](mailto:fagundz@gmail.com)
+[Linkedin](https://www.linkedin.com/in/ricardofagundes/)
